@@ -10,7 +10,7 @@
     "image2": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "location": "123 Main Street, City",
     "area": "5000 sq ft",
-    "facilities": ["Emergency Care", "Surgery Center", "Radiology", "Pediatric Care"]
+    "facilities": ["Emergency Care", "Surgery Center", "Radiology"]
   },
   {
     "id": 2,
@@ -23,7 +23,7 @@
     "image2": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=1453&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "location": "456 Oak Avenue, Town",
     "area": "7000 sq ft",
-    "facilities": ["Cardiology", "Maternity Care", "Neurology", "Physical Therapy"]
+    "facilities": ["Cardiology", "Maternity Care", "Neurology"]
   },
   {
     "id": 3,
@@ -36,7 +36,7 @@
     "image2": "https://images.unsplash.com/photo-1494949649109-ecfc3b8c35df?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "location": "789 Elm Street, Suburb",
     "area": "3 acres",
-    "facilities": ["STEM Labs", "Library", "Sports Facilities", "Art Studios"]
+    "facilities": ["STEM Labs", "Library", "Sports Facilities"]
   },
   {
     "id": 4,
@@ -49,7 +49,7 @@
     "image2": "https://plus.unsplash.com/premium_photo-1680807869780-e0876a6f3cd5?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "location": "1010 Pine Road, County",
     "area": "5 acres",
-    "facilities": ["Science Labs", "Auditorium", "Athletic Fields", "Cafeteria"]
+    "facilities": ["Science Labs", "Auditorium", "Athletic Fields"]
   },
   {
     "id": 5,
@@ -88,7 +88,7 @@
     "image2": "https://www.sanjose.org/sites/default/files/styles/convention_center_levels_overview_top_image/public/2017-12/grand-ballroom-gala-set-1-_1000x714.jpg.webp?itok=aj_X1u-r",
     "location": "100 Convention Avenue",
     "area": "20,000 sq ft",
-    "facilities": ["conference", "Banquet", "Halls", "Catering"]
+    "facilities": ["conference", "Banquet", "Halls"]
   },
   {
     "id": 8,
